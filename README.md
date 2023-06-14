@@ -7,7 +7,7 @@
 
 <div align="center">
 <!--   <a href="https://www.linkedin.com/in/fernando-melo-olivares-31329b201/> -->
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/fernando-melo-olivares-31329b201 height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/fernando-melo-olivares-31329b201" height="25" alt="linkedinlogo"/>
 <!--   </a> -->
 </div>
 
