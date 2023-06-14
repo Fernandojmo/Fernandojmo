@@ -100,17 +100,21 @@ You can view some of the projects I'm currently working on:
 
 <br/>  
 
-<p align="center">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact" />
-<!--   </a> -->
-</p>
-<p align="center">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
-<!--   </a> -->
-</p>
-
+<table align="center"><tr>
+  <td valign="top" width="50%">
+    <p align="center">
+      <!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact" />
+      <!--   </a> -->
+    </p>
+  </td>
+  <td valign="top" width="50%">
+    <p align="center">
+    <!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
+    <!--   </a> -->
+    </p>
+  </td>
 <br/>  
 
 <h2>My Badges & Certificates:</h2>
