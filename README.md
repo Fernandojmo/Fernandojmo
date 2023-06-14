@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Fernando Melo👋
 
-<!--
-**Fernandojmo/Fernandojmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a Full Stack MERN developer and DevOps engieer.
+![visitors]([https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red](https://www.linkedin.com/in/fernando-melo-olivares-31329b201/overlay/background-image/))
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
