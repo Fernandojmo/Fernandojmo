@@ -94,15 +94,6 @@ i'm a Full Stack MERN developer and DevOps engieer.
     </td>
   </tr></table>  
 <br/>  
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
-
 You can view some of the projects I'm currently working on:
 
 - 🔭 I’m currently working on ...
@@ -116,4 +107,10 @@ You can view some of the projects I'm currently working on:
 - 
 ###
 
- 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
