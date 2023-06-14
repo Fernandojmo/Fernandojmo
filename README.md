@@ -110,7 +110,7 @@ You can view some of the projects I'm currently working on:
 <div>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/html-css-landing-page-sobresaliente%20(1).png?raw=true"/>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/crud-dom-web-app-sobresaliente.png?raw=true"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/api-react-js-dashboard-sobresaliente.png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/api-react-js-dashboard-sobresaliente.png?raw=true" width="182" height="182"/>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true"/>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/e-commerce-fullstack-app-with-mongo-express-react-js-y-node-js-sobresaliente.png?raw=true"/>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true"/>
