@@ -39,6 +39,8 @@ You can view some of the projects I'm currently working on:
 - ⚡ Fun fact: ...
 - 
 ###
+<tr><td valign="top" width="33%">
+  
 <h3 align="left">My MERN Stack:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -60,6 +62,8 @@ You can view some of the projects I'm currently working on:
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
+
+</td><td valign="top" width="33%">
 <h3 align="left">Front-End & desing Tools :</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -84,6 +88,7 @@ You can view some of the projects I'm currently working on:
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
+</td><td valign="top" width="33%">
 <h3 align="left">DevOps Tools :</h3>
 <p>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
@@ -108,4 +113,5 @@ You can view some of the projects I'm currently working on:
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
 </p>
+</td></tr></table>  
 
