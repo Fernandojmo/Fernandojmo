@@ -107,4 +107,4 @@ You can view some of the projects I'm currently working on:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
   </a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c236d0cb-9ef9-4fee-a18a-21996c3f36f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/c236d0cb-9ef9-4fee-a18a-21996c3f36f1/public_url"/>
