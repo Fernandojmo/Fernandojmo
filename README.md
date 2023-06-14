@@ -4,6 +4,8 @@ i'm a Full Stack MERN developer and DevOps engieer.
 
 ![Fernandojmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
+
 ![visitors]([https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red](https://www.linkedin.com/in/fernando-melo-olivares-31329b201/overlay/background-image/))
 
 Here are some ideas to get you started:
