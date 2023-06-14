@@ -11,7 +11,7 @@ i'm a Full Stack MERN developer and DevOps engieer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
 
-Here are some ideas to get you started:
+You can view some of the projects I'm currently working on:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
