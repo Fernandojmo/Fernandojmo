@@ -8,9 +8,9 @@ i'm a Full Stack MERN developer and DevOps engieer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
 </a>
 
-<a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
-</a>
+
 
 
 ![visitors]([https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red](https://www.linkedin.com/in/fernando-melo-olivares-31329b201/overlay/background-image/))
