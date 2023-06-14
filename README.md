@@ -115,6 +115,8 @@ You can view some of the projects I'm currently working on:
     <!--   </a> -->
     </p>
   </td>
+</tr></table>
+  
 <br/>  
 
 <h2>My Badges & Certificates:</h2>
