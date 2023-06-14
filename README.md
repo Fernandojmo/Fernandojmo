@@ -90,7 +90,7 @@
 <br/>  
 You can view some of the projects I'm currently working on:
 
-- 🔭 <a href="https://github.com/Fernandojmo/proy_comfront">Full Stack restaurant app:</a><p>"   "</p><a href="https://resplendent-panda-dc59f7.netlify.app/">Page Here!</a>
+- 🔭 <a href="https://github.com/Fernandojmo/proy_comfront">Full Stack restaurant app:</a><a>   </a><a href="https://resplendent-panda-dc59f7.netlify.app/">Page Here!</a>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ..
