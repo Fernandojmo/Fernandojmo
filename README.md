@@ -3,8 +3,9 @@
 </div>
 
 ### <h1 align="center">Hi there, i'm Fernando Melo👋</h1>
-i'm a Industial Engenieer, Full Stack MERN developer and DevOps engieer.
-My specialty focuses on full stack web development with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. Additionally, I have experience with other languages and tools such as Visual Basic, Python, Jenkins, SonarQube, Nexus, and Git. Furthermore, I have a keen interest in continuing my learning journey to explore new technological tools that enable me to work in various areas related to computer science, development, and IT project management. Lastly, I possess soft skills such as leadership, teamwork, and negotiation.
+<p>i'm a Industial Engenieer, Full Stack MERN developer and DevOps engieer.</p>
+
+<p>My specialty focuses on full stack web development with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. Additionally, I have experience with other languages and tools such as Visual Basic, Python, Jenkins, SonarQube, Nexus, and Git. Furthermore, I have a keen interest in continuing my learning journey to explore new technological tools that enable me to work in various areas related to computer science, development, and IT project management. Lastly, I possess soft skills such as leadership, teamwork, and negotiation.</p>
 
 
 <br/> 
