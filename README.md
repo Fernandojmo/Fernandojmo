@@ -18,27 +18,6 @@
 
 i'm a Full Stack MERN developer and DevOps engieer.
 
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
-
-You can view some of the projects I'm currently working on:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-###
 <br/> 
 <table><tr>
     <td valign="top" width="33%">
@@ -118,4 +97,26 @@ You can view some of the projects I'm currently working on:
     </td>
   </tr></table>  
 <br/>  
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandojmo&layout=compact)
+
+You can view some of the projects I'm currently working on:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ..
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
+###
+
  
