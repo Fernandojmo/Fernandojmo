@@ -94,10 +94,7 @@ You can view some of the projects I'm currently working on:
 - :department_store: <a href="https://github.com/Fernandojmo/proy_comback">Full Stack restaurant app Back-End Repository</a>
 - 👯 <a href="https://github.com/Fernandojmo/proy_restoapp">Just a restaurant app booking sistem (CRUD functionality):</a><a>&emsp;</a><a href="https://quiet-nasturtium-9c2396.netlify.app/">Web-Page Here!</a>
 - :ice_cream: <a href="https://github.com/Fernandojmo/fm_crud">My first CRUD using HTML, CSS and JS, a beautiful recype list:</a><a>&emsp;</a><a href="https://fernandojmo.github.io/fm_crud/">Web-Page Here!</a>
-- :camera: <a href="https://github.com/Fernandojmo/fm_html">Just a landing page using HTML and CSS (working to improve a better UX/UI design):</a><a>&emsp;</a><a href="https://fernandojmo.github.io/fm_html/">Web-Page Here!</a>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- :camera: <a href="https://github.com/Fernandojmo/fm_html">My first landing page using HTML and CSS (working to improve a better UX/UI design):</a><a>&emsp;</a><a href="https://fernandojmo.github.io/fm_html/">Web-Page Here!</a>
 
 <br/>  
 
