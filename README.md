@@ -109,10 +109,22 @@ You can view some of the projects I'm currently working on:
 </p>
 <h2>My Badges & Certificates:</h2>
 <div align="center">
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/html-css-landing-page-sobresaliente%20(2).png?raw=true" width="182" height="182"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/crud-dom-web-app-sobresaliente.png?raw=true" width="182" height="182"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/api-react-js-dashboard-sobresaliente.png?raw=true" width="182" height="182"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true" width="182" height="182"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/e-commerce-fullstack-app-with-mongo-express-react-js-y-node-js-sobresaliente.png?raw=true" width="182" height="182"/>
-  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true" width="182" height="182"/>
+  <a href="https://www.credly.com/earner/earned/badge/4a39c3ce-8cc7-4531-a6d4-d335b527a78a">
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/html-css-landing-page-sobresaliente%20(2).png?raw=true" width="182" height="182"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/76c963af-5e86-4f66-ae6d-0a7af63517a5">
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/crud-dom-web-app-sobresaliente.png?raw=true" width="182" height="182"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/a5c4acc3-bea7-4e81-9eb2-29231dac1e5b">
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/api-react-js-dashboard-sobresaliente.png?raw=true" width="182" height="182"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/8cfbe4af-c6c0-4b12-938f-796cacf7b800">
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true" width="182" height="182"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/e958b304-b2f0-4cc4-be77-e634bc314ebc">  
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/e-commerce-fullstack-app-with-mongo-express-react-js-y-node-js-sobresaliente.png?raw=true" width="182" height="182"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/c236d0cb-9ef9-4fee-a18a-21996c3f36f1">  
+    <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true" width="182" height="182"/>
+  </a>
 </div>
