@@ -88,7 +88,7 @@
     </td>
   </tr></table>  
 <br/>  
-:computer:<h2>You can view some of the projects I'm currently working on:</h2>
+<h2>:computer: You can view some of the projects I'm currently working on:</h2>
 
 - :beer: <a href="https://github.com/Fernandojmo/proy_comfront">Full Stack restaurant app:</a><a>&emsp;</a><a href="https://resplendent-panda-dc59f7.netlify.app/">Web-Page Here!</a>
 - :department_store: <a href="https://github.com/Fernandojmo/proy_comback">Full Stack restaurant app Back-End Repository</a>
