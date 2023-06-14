@@ -88,7 +88,7 @@
     </td>
   </tr></table>  
 <br/>  
-You can view some of the projects I'm currently working on:
+:computer:<h2>You can view some of the projects I'm currently working on:</h2>
 
 - :beer: <a href="https://github.com/Fernandojmo/proy_comfront">Full Stack restaurant app:</a><a>&emsp;</a><a href="https://resplendent-panda-dc59f7.netlify.app/">Web-Page Here!</a>
 - :department_store: <a href="https://github.com/Fernandojmo/proy_comback">Full Stack restaurant app Back-End Repository</a>
@@ -96,8 +96,10 @@ You can view some of the projects I'm currently working on:
 - :ice_cream: <a href="https://github.com/Fernandojmo/fm_crud">My first CRUD using HTML, CSS and JS, a beautiful recype list:</a><a>&emsp;</a><a href="https://fernandojmo.github.io/fm_crud/">Web-Page Here!</a>
 - :camera: <a href="https://github.com/Fernandojmo/fm_html">My first landing page using HTML and CSS (working to improve a better UX/UI design):</a><a>&emsp;</a><a href="https://fernandojmo.github.io/fm_html/">Web-Page Here!</a>
 
-<br/>  
+<p>My projects are always made with :heart: and Responsivity</p>
 
+<br/>  
+<h2>Here are some Git-Hub Stats</h2>
 <table align="center"><tr>
   <td valign="top" width="50%">
     <p align="center">
