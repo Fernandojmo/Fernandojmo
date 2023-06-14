@@ -9,7 +9,7 @@
 
 
 <br/> 
-<table align="center"><tr>
+<table align="center" border="none"><tr>
     <td valign="top" width="33%">
       <h3 align="center">My MERN Stack:</h3>
       <p align="center">
