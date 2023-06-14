@@ -110,6 +110,9 @@ You can view some of the projects I'm currently working on:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
 <!--   </a> -->
 </p>
+
+<br/>  
+
 <h2>My Badges & Certificates:</h2>
 <div align="center">
   <a href="https://www.credly.com/earner/earned/badge/4a39c3ce-8cc7-4531-a6d4-d335b527a78a">
@@ -131,3 +134,5 @@ You can view some of the projects I'm currently working on:
     <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true" width="182" height="182"/>
   </a>
 </div>
+
+<br/>  
