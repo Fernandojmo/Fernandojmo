@@ -12,7 +12,7 @@
 ### <h1 align="center">Hi there, i'm Fernando Melo👋</h1>
 i'm a Full Stack MERN developer and DevOps engieer.
 <div align="left">
-  <h2>Follow me on Linked-In: <a href="https://www.linkedin.com/in/fernando-melo-olivares-31329b201"/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedinlogo"/></a></h2>
+  <p>Follow me on Linked-In:  <a href="https://www.linkedin.com/in/fernando-melo-olivares-31329b201"/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedinlogo"/></a></p>
 </div>
 
 <br/> 
