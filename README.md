@@ -124,7 +124,7 @@ You can view some of the projects I'm currently working on:
   <a href="https://www.credly.com/earner/earned/badge/e958b304-b2f0-4cc4-be77-e634bc314ebc">  
     <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/e-commerce-fullstack-app-with-mongo-express-react-js-y-node-js-sobresaliente.png?raw=true" width="182" height="182"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/c236d0cb-9ef9-4fee-a18a-21996c3f36f1">  
+  <a href="https://solicitudes.udd.cl/verificar/index.php/index/?identificador=188974155&folio=195773">  
     <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true" width="182" height="182"/>
   </a>
 </div>
