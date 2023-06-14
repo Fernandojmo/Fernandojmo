@@ -107,4 +107,4 @@ You can view some of the projects I'm currently working on:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
   </a>
 </p>
-<img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/react-js-firebase-restaurant-app-sobresaliente.png?raw=true"/>
+<img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true"/>
