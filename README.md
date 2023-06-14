@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/Fernandojmo/Fernandojmo/assets/112823392/3bd9348a-57d2-4594-89ec-8cd0170601c6)<div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 </div>
 
@@ -107,4 +107,11 @@ You can view some of the projects I'm currently working on:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
   </a>
 </p>
-<img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true"/>
+<div>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/html-css-landing-page-sobresaliente%20(1).png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/crud-dom-web-app-sobresaliente.png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/api-react-js-dashboard-sobresaliente.png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/react-js-firebase-restaurant-app-sobresaliente.png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/e-commerce-fullstack-app-with-mongo-express-react-js-y-node-js-sobresaliente.png?raw=true"/>
+  <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/developer-web-full-stack-sobresaliente.png?raw=true"/>
+</div>
