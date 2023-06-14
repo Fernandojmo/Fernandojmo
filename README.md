@@ -107,6 +107,7 @@ You can view some of the projects I'm currently working on:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernandojmo&show_icons=true&theme=radical" />
   </a>
 </p>
+<h2>My Badges & Certificates:</h2>
 <div>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/html-css-landing-page-sobresaliente%20(1).png?raw=true" width="182" height="182"/>
   <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/crud-dom-web-app-sobresaliente.png?raw=true" width="182" height="182"/>
