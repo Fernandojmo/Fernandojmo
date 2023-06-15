@@ -85,7 +85,7 @@
           <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
         </a>
         <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/soapuilogo%20(1).png?raw=true" alt="SoapUI" width="40" height="40"/>
+          <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/soapuilogo%20(1).png?raw=true" alt="SoapUI" width="50" height="50"/>
         </a>
         <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
           <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/Captura%20de%20pantalla%202023-06-15%20111316.jpg?raw=true" alt="Jmeter" width="40" height="40"/>
