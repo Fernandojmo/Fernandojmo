@@ -90,7 +90,6 @@
         <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
           <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/Captura%20de%20pantalla%202023-06-15%20111316.jpg?raw=true" alt="Jmeter" width="40" height="40"/>
         </a>
-        
       </p>
     </td>
   </tr></table>  
