@@ -90,6 +90,12 @@
         <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
           <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/Captura%20de%20pantalla%202023-06-15%20111316.jpg?raw=true" alt="Jmeter" width="40" height="40"/>
         </a>
+        <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/Terraform-1329545833434920628.png?raw=true" alt="Terraform" width="40" height="40"/>
+        </a>
+        <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/logos/Ansible_logo.png?raw=true" alt="Ansible" width="40" height="40"/>
+        </a>
       </p>
     </td>
   </tr></table>  
