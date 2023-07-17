@@ -7,7 +7,7 @@
 
 <p>My specialty focuses on full stack web development with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. Additionally, I have experience with other languages and tools such as Visual Basic, Python, Jenkins, SonarQube, Nexus, and Git. Furthermore, I have a keen interest in continuing my learning journey to explore new technological tools that enable me to work in various areas related to computer science, development, and IT project management. Lastly, I possess soft skills such as leadership, teamwork, and negotiation.</p>
 
-<a href="https://github.com/Fernandojmo/Fernandojmo/blob/5fc89f5a1f0ede841e7999b924ed7bcadef15ab8/Badges/Fernando_Melo_DWFS_CV.pdf">Please click here to access my resume</a>
+<a href="https://github.com/Fernandojmo/Fernandojmo/blob/main/Badges/Fernando_Melo_DWFS_CV.pdf">Please click here to access my resume</a>
 
 <br/> 
 <table align="center"><tr>
